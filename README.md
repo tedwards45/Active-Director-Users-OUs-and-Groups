@@ -36,8 +36,11 @@ Before managing accounts and permissions, let’s quickly recap how to create OU
    - `Groups`
 
 > 🧠 **Why OUs Matter:**  
-> Organizational Units allow you to group similar objects (like users or computers) and apply specific **Group Policies** to them.  
-> Think of OUs as *folders* that help you manage and secure AD resources more efficiently.
+> Organizational Units allow you to group similar objects (like users or computers) and apply specific **Group Policies** to them.
+> OUs provide logical structure and control. They allow administrators to:
+   > Delegate control to department heads or junior admins.
+   > Keep the domain organized for easier maintenance and security. 
+   > Think of OUs as *folders* that help you manage and secure AD resources more efficiently.
 
 ---
 
