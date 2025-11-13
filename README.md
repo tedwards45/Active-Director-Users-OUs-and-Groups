@@ -41,7 +41,12 @@ You’ll learn how to:
 5. ![Create OU](https://github.com/user-attachments/assets/b65f085e-c815-4e3a-b0ee-5069afce7883)
 6. ![Branch1 OU](https://github.com/user-attachments/assets/39fcc5ea-baf9-4699-ad65-d71c56c75b11) 
 
-7. Repeat this process to create additional OUs such as: - Users - Computers - Groups
+7. Repeat this process to create additional OUs such as:
+   - Users
+     
+   - Computers
+     
+   - Groups
 
    
 > 🧠 **Why OUs Matter:**
